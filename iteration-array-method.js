@@ -88,7 +88,7 @@ let studentData = [
 
 // Use  the 5 iteration methods ['for', 'for in', 'for of', 'while', 'forEach'] to print out all the data
 
-console.log(`LOOPS:`);
+console.log(`ITERATION:`);
 
 // for
 console.log(`Using "for":`);
